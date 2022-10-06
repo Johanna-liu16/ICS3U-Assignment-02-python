@@ -11,7 +11,7 @@ def main():
     # this function calculates the volume of a sphere
 
     # input
-    print("The formula of a cone is V = πr²h÷3 .")
+    print("The formula of the volume of a cone is V = πr²h÷3.")
     radius = int(input("Enter the radius of the cone (cm): "))
     height = int(input("Enter the height of the cone (cm): "))
 
