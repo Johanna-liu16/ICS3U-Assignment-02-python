@@ -16,7 +16,7 @@ def main():
     height = int(input("Enter the height of the cone (cm): "))
 
     # process
-    volume = constants.PI * radius ** 2 * height / 3
+    volume = constants.PI * radius**2 * height / 3
 
     # output
     print("The volume of the cone is {0} cm³.".format(round(volume, 2)))
